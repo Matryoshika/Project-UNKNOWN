@@ -1,0 +1,61 @@
+# eclipse
+bin
+*.launch
+.settings
+.metadata
+.classpath
+.project
+
+# idea
+out
+*.ipr
+*.iws
+*.iml
+.idea
+
+# gradle
+build
+.gradle
+
+# other
+eclipse
+run
+libs
+
+# Live
+astralsorcery
+crash-reports
+downloads
+journeymap
+libraries
+local
+logs
+ModPatches
+mods
+patchouli_books
+resourcepacks
+saves
+screenshots
+woot
+world
+.mixin.out
+.curseclient
+banned-ips.json
+banned-players.json
+BotaniaVars.dat
+crafttweaker.log
+eula.txt
+ExtraBotanyVars.dat
+*.jar
+*installer.jar.log
+*.dll
+ops.json
+options.txt
+patchouli_data.json
+servers.dat
+usercache.json
+usernamecache.json
+whitelist.json
+minecraftinstance.json
+
+
