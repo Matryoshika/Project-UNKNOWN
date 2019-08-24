@@ -1,0 +1,6 @@
+
+{
+  "Name": "golems_thermal.golem_constantan_tf",
+  "Registry ID": "golems_thermal:golem_constantan_tf",
+  "Class": "golems_thermal.entity.thermal_foundation.EntityConstantanGolem"
+}

@@ -1,0 +1,11 @@
+minecraft:farmer
+minecraft:librarian
+minecraft:priest
+minecraft:smith
+minecraft:butcher
+minecraft:nitwit
+cyclicmagic:sage
+cyclicmagic:druid
+immersiveengineering:engineer
+endreborn:explorer
+sophisticatedwolves:pets_seller
